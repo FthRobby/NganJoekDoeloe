@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">NganJoekDoloe</string>
-    <string name="jumlah_utang">Jumlah Hutang</string>
+    <string name="jumlah_utang">Jumlah Pinjaman</string>
 
-    <string name="jumlah_hari_utang">Jumlah Estimasi Hutang</string>
+    <string name="jumlah_hari_utang">Jumlah Pelunasan Pinjaman</string>
 
-    <string name="estimasi_hutang">Estimasi pelunasan hutang?</string>
+    <string name="estimasi_hutang">Estimasi pelunasan pinjaman?</string>
 
     <string name="harian_service">Harian</string>
 
     <string name="bulanan_service">Bulanan</string>
 
 
-    <string name="ajukan_calculate">Ajukan Hutang</string>
+    <string name="ajukan_calculate">Ajukan Pinjaman</string>
 
-    <string name="title">HoeTank SUCCESS !!</string>
+    <string name="title">Pinjaman berhasil !!</string>
 
     <string name="content_description_media">Gambar Hutang</string>
 
